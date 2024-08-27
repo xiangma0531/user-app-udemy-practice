@@ -1,3 +1,21 @@
+# 概要
+ReactおよびTypeScriptの学習用として、下記Udemyの講座を参考に作成。 講座ではReactのv17での実装となっていたため、v18での実装にあたって講座内容と異なる点は都度調査の上実装。
+
+参考URL:https://www.udemy.com/course/react_stepup/learn/lecture/24823170?start=0#overview
+
+# 開発環境
+## PC
+- MacbookPro(Intelチップ)
+- Mac OS X
+
+## 言語
+- TypeScript
+
+## フレームワーク
+- React.js(v18)
+- Node.js(v22.2.0)
+※Node.jsのバージョン管理はnodenv(1.5.0)を使用
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
